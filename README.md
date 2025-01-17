@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaylee!</h1>
 <h3 align="center">📊 Mathematics and Data Science Student | Data Analyst Enthusiast | R & Python Developer</h3>
 
-<p align="left">Welcome to my GitHub! I'm a third-year Mathematics and Data Science student at DKIT with a passion for statistics, data visualizations, and predictive analytics. I ❤️ Maths and working with data, which is why I decided to pursue a career in Data Science. 🌟 </p>
+<p align="left">Welcome to my GitHub! I'm a third-year Mathematics and Data Science student at DKIT with a passion for statistics, data visualizations, and predictive analytics. I ❤️ Maths and working with data, which is why I decided to pursue a career in Data Science. </p>
 
 - 💼 - I worked as a Data Analyst Intern at [Valbury Asia Futures](https://valbury.co.id/), where I cleaned and analyzed data to generate business insights and presented findings to senior management and stakeholders. My work can be found in [Portfolio](https://github.com/kayleejacq/portfolio).
   
