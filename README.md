@@ -18,7 +18,7 @@
 
 ### Database Management
 ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&color=fbfbfb)
-![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=59bada)
+![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=fbfbfb)
 
 ### Data Visualization
 ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=for-the-badge&logo=Matplotlib&color=f6f7f7) 
